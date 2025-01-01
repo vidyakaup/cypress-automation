@@ -1,4 +1,4 @@
-import RegForm from '../pages/RegForm';
+import RegForm from "../support/pages/RegForm";
 
 describe("Page Object Model", function() {
 
